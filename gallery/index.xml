@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on Homestay LA VILLA DE ROS</title>
-    <link>https://askanfot.github.io/myweb/gallery/</link>
+    <link>https://homenkitchen.com.vn/gallery/</link>
     <description>Recent content in Gallery on Homestay LA VILLA DE ROS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
     
-	<atom:link href="https://askanfot.github.io/myweb/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://homenkitchen.com.vn/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
